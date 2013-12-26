@@ -41,7 +41,9 @@ on each request, Jekyll does this once _beforehand_ and caches the _entire websi
 
 Jekyll does not come with any content nor does it have any templates or design elements.
 This is a common source of confusion when getting started.
-Jekyll does not come with anything you actually use or see on your website - you have to make it.
+Jekyll dfdf does not come with anything you actually use or see on your website - you have to make it.
+
+
 
 ### Why Should I Care?
 
