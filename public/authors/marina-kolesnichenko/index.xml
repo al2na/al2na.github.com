@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marina Kolesnichenko | Altuna Akalin</title>
+    <link>/authors/marina-kolesnichenko/</link>
+      <atom:link href="/authors/marina-kolesnichenko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marina Kolesnichenko</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Marina Kolesnichenko</title>
+      <link>/authors/marina-kolesnichenko/</link>
+    </image>
+    
+    <item>
+      <title>Autocrine LTA signaling drives NF-$ąppa$B and JAK-STAT activity and myeloid gene expression in Hodgkin lymphoma</title>
+      <link>/publication/von-2019-autocrine/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/von-2019-autocrine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The I$ąppa$B kinase complex is a regulator of mRNA stability</title>
+      <link>/publication/mikuda-2018-ikappab/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mikuda-2018-ikappab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

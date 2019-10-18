@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software | Altuna Akalin</title>
+    <link>/tags/software/</link>
+      <atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Software</title>
+      <link>/tags/software/</link>
+    </image>
+    
+    <item>
+      <title>multi-omics data integration</title>
+      <link>/project/maui/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/maui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PiGx workflows</title>
+      <link>/project/pigx/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/pigx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R/Bioc package</title>
+      <link>/project/genomation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/genomation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R/Bioc package</title>
+      <link>/project/methylkit/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/methylkit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

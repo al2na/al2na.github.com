@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bora Uyar | Altuna Akalin</title>
+    <link>/authors/bora-uyar/</link>
+      <atom:link href="/authors/bora-uyar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bora Uyar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Bora Uyar</title>
+      <link>/authors/bora-uyar/</link>
+    </image>
+    
+    <item>
+      <title>HOT or not: examining the basis of high-occupancy target regions</title>
+      <link>/publication/wreczycka-2019-hot/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wreczycka-2019-hot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The conserved histone chaperone LIN-53 is required for normal lifespan and maintenance of muscle integrity in Caenorhabditis elegans</title>
+      <link>/publication/muthel-2019-conserved/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/muthel-2019-conserved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FACT sets a barrier for cell fate reprogramming in Caenorhabditis elegans and human cells</title>
+      <link>/publication/kolundzic-2018-fact/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kolundzic-2018-fact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutations in disordered regions can cause disease by creating dileucine motifs</title>
+      <link>/publication/meyer-2018-mutations/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/meyer-2018-mutations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PiGx: reproducible genomics analysis pipelines with GNU Guix</title>
+      <link>/publication/wurmus-2018-pigx/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wurmus-2018-pigx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The I$ąppa$B kinase complex is a regulator of mRNA stability</title>
+      <link>/publication/mikuda-2018-ikappab/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mikuda-2018-ikappab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutations in disordered regions cause disease by creating endocytosis motifs</title>
+      <link>/publication/meyer-2017-mutations/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/meyer-2017-mutations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RCAS: an RNA centric annotation system for transcriptome-wide regions of interest</title>
+      <link>/publication/uyar-2017-rcas/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/uyar-2017-rcas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

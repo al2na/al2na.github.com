@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shintaro Katayama | Altuna Akalin</title>
+    <link>/authors/shintaro-katayama/</link>
+      <atom:link href="/authors/shintaro-katayama/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shintaro Katayama</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Shintaro Katayama</title>
+      <link>/authors/shintaro-katayama/</link>
+    </image>
+    
+    <item>
+      <title>An atlas of combinatorial transcriptional regulation in mouse and man</title>
+      <link>/publication/ravasi-2010-atlas/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/ravasi-2010-atlas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

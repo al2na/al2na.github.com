@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ricardo Wurmus | Altuna Akalin</title>
+    <link>/authors/ricardo-wurmus/</link>
+      <atom:link href="/authors/ricardo-wurmus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ricardo Wurmus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ricardo Wurmus</title>
+      <link>/authors/ricardo-wurmus/</link>
+    </image>
+    
+    <item>
+      <title>Global identification of functional microRNA-mRNA interactions in Drosophila</title>
+      <link>/publication/wessels-2019-global/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wessels-2019-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HOT or not: examining the basis of high-occupancy target regions</title>
+      <link>/publication/wreczycka-2019-hot/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wreczycka-2019-hot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PiGx: reproducible genomics analysis pipelines with GNU Guix</title>
+      <link>/publication/wurmus-2018-pigx/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wurmus-2018-pigx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RCAS: an RNA centric annotation system for transcriptome-wide regions of interest</title>
+      <link>/publication/uyar-2017-rcas/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/uyar-2017-rcas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DoRiNA 2.0—upgrading the doRiNA database of RNA interactions in post-transcriptional regulation</title>
+      <link>/publication/blin-2014-dorina/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/blin-2014-dorina/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

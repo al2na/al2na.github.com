@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selman I Bulut | Altuna Akalin</title>
+    <link>/authors/selman-i-bulut/</link>
+      <atom:link href="/authors/selman-i-bulut/index.xml" rel="self" type="application/rss+xml" />
+    <description>Selman I Bulut</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Selman I Bulut</title>
+      <link>/authors/selman-i-bulut/</link>
+    </image>
+    
+    <item>
+      <title>FACT sets a barrier for cell fate reprogramming in Caenorhabditis elegans and human cells</title>
+      <link>/publication/kolundzic-2018-fact/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kolundzic-2018-fact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

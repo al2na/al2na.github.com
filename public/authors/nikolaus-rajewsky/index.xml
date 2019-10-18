@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikolaus Rajewsky | Altuna Akalin</title>
+    <link>/authors/nikolaus-rajewsky/</link>
+      <atom:link href="/authors/nikolaus-rajewsky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nikolaus Rajewsky</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Nikolaus Rajewsky</title>
+      <link>/authors/nikolaus-rajewsky/</link>
+    </image>
+    
+    <item>
+      <title>RCAS: an RNA centric annotation system for transcriptome-wide regions of interest</title>
+      <link>/publication/uyar-2017-rcas/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/uyar-2017-rcas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DoRiNA 2.0—upgrading the doRiNA database of RNA interactions in post-transcriptional regulation</title>
+      <link>/publication/blin-2014-dorina/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/blin-2014-dorina/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

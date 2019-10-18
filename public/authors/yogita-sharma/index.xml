@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yogita Sharma | Altuna Akalin</title>
+    <link>/authors/yogita-sharma/</link>
+      <atom:link href="/authors/yogita-sharma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yogita Sharma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yogita Sharma</title>
+      <link>/authors/yogita-sharma/</link>
+    </image>
+    
+    <item>
+      <title>Translog, a web browser for studying the expression divergence of homologous genes</title>
+      <link>/publication/dong-2010-translog/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/dong-2010-translog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

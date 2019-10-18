@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harukazu Suzuki | Altuna Akalin</title>
+    <link>/authors/harukazu-suzuki/</link>
+      <atom:link href="/authors/harukazu-suzuki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Harukazu Suzuki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Harukazu Suzuki</title>
+      <link>/authors/harukazu-suzuki/</link>
+    </image>
+    
+    <item>
+      <title>An atlas of combinatorial transcriptional regulation in mouse and man</title>
+      <link>/publication/ravasi-2010-atlas/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/ravasi-2010-atlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The transcriptional network that controls growth arrest and differentiation in a human myeloid leukemia cell line</title>
+      <link>/publication/suzuki-2009-transcriptional/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/suzuki-2009-transcriptional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptional features of genomic regulatory blocks</title>
+      <link>/publication/akalin-2009-transcriptional/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/akalin-2009-transcriptional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex loci in human and mouse genomes</title>
+      <link>/publication/engstrom-2006-complex/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/engstrom-2006-complex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

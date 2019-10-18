@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thalia Farazi | Altuna Akalin</title>
+    <link>/authors/thalia-farazi/</link>
+      <atom:link href="/authors/thalia-farazi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thalia Farazi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Thalia Farazi</title>
+      <link>/authors/thalia-farazi/</link>
+    </image>
+    
+    <item>
+      <title>Deciphering human ribonucleoprotein regulatory networks</title>
+      <link>/publication/mukherjee-2018-deciphering/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mukherjee-2018-deciphering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

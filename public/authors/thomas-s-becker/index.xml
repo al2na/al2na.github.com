@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas S Becker | Altuna Akalin</title>
+    <link>/authors/thomas-s-becker/</link>
+      <atom:link href="/authors/thomas-s-becker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas S Becker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Thomas S Becker</title>
+      <link>/authors/thomas-s-becker/</link>
+    </image>
+    
+    <item>
+      <title>Cis-regulatory characterization of sequence conservation surrounding the Hox4 genes</title>
+      <link>/publication/punnamoottil-2010-cis/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/punnamoottil-2010-cis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

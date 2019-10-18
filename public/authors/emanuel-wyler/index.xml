@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emanuel Wyler | Altuna Akalin</title>
+    <link>/authors/emanuel-wyler/</link>
+      <atom:link href="/authors/emanuel-wyler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emanuel Wyler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Emanuel Wyler</title>
+      <link>/authors/emanuel-wyler/</link>
+    </image>
+    
+    <item>
+      <title>Widespread activation of antisense transcription of the host genome during herpes simplex virus 1 infection</title>
+      <link>/publication/wyler-2017-widespread/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wyler-2017-widespread/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Altuna Akalin</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Autocrine LTA signaling drives NF-$ąppa$B and JAK-STAT activity and myeloid gene expression in Hodgkin lymphoma</title>
+      <link>/publication/von-2019-autocrine/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/von-2019-autocrine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global identification of functional microRNA-mRNA interactions in Drosophila</title>
+      <link>/publication/wessels-2019-global/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wessels-2019-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HOT or not: examining the basis of high-occupancy target regions</title>
+      <link>/publication/wreczycka-2019-hot/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wreczycka-2019-hot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long non-coding RNAs defining major subtypes of B cell precursor acute lymphoblastic leukemia</title>
+      <link>/publication/james-2019-long/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/james-2019-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The conserved histone chaperone LIN-53 is required for normal lifespan and maintenance of muscle integrity in Caenorhabditis elegans</title>
+      <link>/publication/muthel-2019-conserved/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/muthel-2019-conserved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternative 3′ UTRs direct localization of functionally diverse protein isoforms in neuronal compartments</title>
+      <link>/publication/ciolli-2018-alternative/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ciolli-2018-alternative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciphering human ribonucleoprotein regulatory networks</title>
+      <link>/publication/mukherjee-2018-deciphering/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mukherjee-2018-deciphering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FACT sets a barrier for cell fate reprogramming in Caenorhabditis elegans and human cells</title>
+      <link>/publication/kolundzic-2018-fact/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kolundzic-2018-fact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutations in disordered regions can cause disease by creating dileucine motifs</title>
+      <link>/publication/meyer-2018-mutations/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/meyer-2018-mutations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netSmooth: Network-smoothing based imputation for single cell RNA-seq</title>
+      <link>/publication/ronen-2018-netsmooth/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ronen-2018-netsmooth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuclear organization in the spinal cord depends on motor neuron lamination orchestrated by catenin and afadin function</title>
+      <link>/publication/dewitz-2018-nuclear/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dewitz-2018-nuclear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PiGx: reproducible genomics analysis pipelines with GNU Guix</title>
+      <link>/publication/wurmus-2018-pigx/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wurmus-2018-pigx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The I$ąppa$B kinase complex is a regulator of mRNA stability</title>
+      <link>/publication/mikuda-2018-ikappab/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mikuda-2018-ikappab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutations in disordered regions cause disease by creating endocytosis motifs</title>
+      <link>/publication/meyer-2017-mutations/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/meyer-2017-mutations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RCAS: an RNA centric annotation system for transcriptome-wide regions of interest</title>
+      <link>/publication/uyar-2017-rcas/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/uyar-2017-rcas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA localization is a key determinant of neurite-enriched proteome</title>
+      <link>/publication/zappulo-2017-rna/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zappulo-2017-rna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA polymerase II primes Polycomb-repressed developmental genes throughout terminal neuronal differentiation</title>
+      <link>/publication/ferrai-2017-rna/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrai-2017-rna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategies for analyzing bisulfite sequencing data</title>
+      <link>/publication/wreczycka-2017-strategies/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wreczycka-2017-strategies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The RNA workbench: best practices for RNA and high-throughput sequencing bioinformatics in Galaxy</title>
+      <link>/publication/gruning-2017-rna/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gruning-2017-rna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Widespread activation of antisense transcription of the host genome during herpes simplex virus 1 infection</title>
+      <link>/publication/wyler-2017-widespread/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wyler-2017-widespread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genomic profiling of DNA methyltransferases reveals a role for DNMT3B in genic methylation</title>
+      <link>/publication/baubec-2015-genomic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/baubec-2015-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SIB Swiss Institute of Bioinformatics’ resources: focus on curated databases</title>
+      <link>/publication/sib-2015-sib/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sib-2015-sib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA Hydroxymethylation Profiling Reveals that  WT1  Mutations Result in Loss of TET2 Function in Acute Myeloid Leukemia</title>
+      <link>/publication/rampal-2014-dna/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rampal-2014-dna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DoRiNA 2.0—upgrading the doRiNA database of RNA interactions in post-transcriptional regulation</title>
+      <link>/publication/blin-2014-dorina/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/blin-2014-dorina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomation: a toolkit to summarize, annotate and visualize genomic intervals</title>
+      <link>/publication/akalin-2014-genomation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/akalin-2014-genomation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NanoCAGE analysis of the mouse olfactory epithelium identifies the expression of vomeronasal receptors and of proximal LINE elements</title>
+      <link>/publication/pascarella-2014-nanocage/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pascarella-2014-nanocage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two independent transcription initiation codes overlap on vertebrate core promoters</title>
+      <link>/publication/haberle-2014-two/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/haberle-2014-two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic regulation of the transcription initiation landscape at single nucleotide resolution during vertebrate embryogenesis</title>
+      <link>/publication/li-2013-dynamic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2013-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic regulation of the transcription initiation landscape at single nucleotide resolution during vertebrate embryogenesis</title>
+      <link>/publication/nepal-2013-dynamic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/nepal-2013-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Induction of sarcomas by mutant IDH2</title>
+      <link>/publication/lu-2013-induction/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lu-2013-induction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Base-pair resolution DNA methylation sequencing reveals profoundly divergent epigenetic landscapes in acute myeloid leukemia</title>
+      <link>/publication/akalin-2012-base/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/akalin-2012-base/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation and divergence in Toll-like receptor 4-regulated gene expression in primary human versus mouse macrophages</title>
+      <link>/publication/schroder-2012-conservation/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/schroder-2012-conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methylKit: a comprehensive R package for the analysis of genome-wide DNA methylation profiles</title>
+      <link>/publication/akalin-2012-methylkit/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/akalin-2012-methylkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promoter architecture of mouse olfactory receptor genes</title>
+      <link>/publication/plessy-2012-promoter/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/plessy-2012-promoter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissecting the transcriptional regulatory properties of human chromosome 16 highly conserved non-coding regions</title>
+      <link>/publication/royo-2011-dissecting/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/royo-2011-dissecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An atlas of combinatorial transcriptional regulation in mouse and man</title>
+      <link>/publication/ravasi-2010-atlas/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/ravasi-2010-atlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cis-regulatory characterization of sequence conservation surrounding the Hox4 genes</title>
+      <link>/publication/punnamoottil-2010-cis/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/punnamoottil-2010-cis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translog, a web browser for studying the expression divergence of homologous genes</title>
+      <link>/publication/dong-2010-translog/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/dong-2010-translog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The transcriptional network that controls growth arrest and differentiation in a human myeloid leukemia cell line</title>
+      <link>/publication/suzuki-2009-transcriptional/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/suzuki-2009-transcriptional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptional features of genomic regulatory blocks</title>
+      <link>/publication/akalin-2009-transcriptional/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/akalin-2009-transcriptional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zebrafish enhancer detection (ZED) vector: a new tool to facilitate transgenesis and the functional analysis of cis-regulatory regions in zebrafish</title>
+      <link>/publication/bessa-2009-zebrafish/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/bessa-2009-zebrafish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential evolution of the 13 Atlantic salmon Hox clusters</title>
+      <link>/publication/mungpakdee-2008-differential/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/mungpakdee-2008-differential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic regulatory blocks encompass multiple neighboring genes and maintain conserved synteny in vertebrates</title>
+      <link>/publication/kikuta-2007-genomic/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/kikuta-2007-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex loci in human and mouse genomes</title>
+      <link>/publication/engstrom-2006-complex/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/engstrom-2006-complex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

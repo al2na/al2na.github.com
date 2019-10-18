@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kate Schroder | Altuna Akalin</title>
+    <link>/authors/kate-schroder/</link>
+      <atom:link href="/authors/kate-schroder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kate Schroder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Kate Schroder</title>
+      <link>/authors/kate-schroder/</link>
+    </image>
+    
+    <item>
+      <title>Conservation and divergence in Toll-like receptor 4-regulated gene expression in primary human versus mouse macrophages</title>
+      <link>/publication/schroder-2012-conservation/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/schroder-2012-conservation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

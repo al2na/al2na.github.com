@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancer Genomics | Altuna Akalin</title>
+    <link>/tags/cancer-genomics/</link>
+      <atom:link href="/tags/cancer-genomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cancer Genomics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Cancer Genomics</title>
+      <link>/tags/cancer-genomics/</link>
+    </image>
+    
+    <item>
+      <title>AML epigenomics</title>
+      <link>/project/amlepi/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/amlepi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-omics data integration</title>
+      <link>/project/maui/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/maui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WT1 mutation leukemia</title>
+      <link>/project/amlhydroxy/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/amlhydroxy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

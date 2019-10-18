@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard J D&#39;Andrea | Altuna Akalin</title>
+    <link>/authors/richard-j-dandrea/</link>
+      <atom:link href="/authors/richard-j-dandrea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard J D&#39;Andrea</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Richard J D&#39;Andrea</title>
+      <link>/authors/richard-j-dandrea/</link>
+    </image>
+    
+    <item>
+      <title>An optimized algorithm for detecting and annotating regional differential methylation</title>
+      <link>/publication/li-2013-optimized/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2013-optimized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

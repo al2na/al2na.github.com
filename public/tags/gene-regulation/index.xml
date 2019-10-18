@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gene Regulation | Altuna Akalin</title>
+    <link>/tags/gene-regulation/</link>
+      <atom:link href="/tags/gene-regulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gene Regulation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Gene Regulation</title>
+      <link>/tags/gene-regulation/</link>
+    </image>
+    
+    <item>
+      <title>Genomic Regulatory Blocks</title>
+      <link>/project/grb/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/grb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HOT regions</title>
+      <link>/project/hotnot/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/hotnot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

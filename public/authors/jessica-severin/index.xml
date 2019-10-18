@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jessica Severin | Altuna Akalin</title>
+    <link>/authors/jessica-severin/</link>
+      <atom:link href="/authors/jessica-severin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jessica Severin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jessica Severin</title>
+      <link>/authors/jessica-severin/</link>
+    </image>
+    
+    <item>
+      <title>Promoter architecture of mouse olfactory receptor genes</title>
+      <link>/publication/plessy-2012-promoter/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/plessy-2012-promoter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

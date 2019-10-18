@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koshi Imami | Altuna Akalin</title>
+    <link>/authors/koshi-imami/</link>
+      <atom:link href="/authors/koshi-imami/index.xml" rel="self" type="application/rss+xml" />
+    <description>Koshi Imami</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Koshi Imami</title>
+      <link>/authors/koshi-imami/</link>
+    </image>
+    
+    <item>
+      <title>Alternative 3′ UTRs direct localization of functionally diverse protein isoforms in neuronal compartments</title>
+      <link>/publication/ciolli-2018-alternative/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ciolli-2018-alternative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA localization is a key determinant of neurite-enriched proteome</title>
+      <link>/publication/zappulo-2017-rna/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zappulo-2017-rna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

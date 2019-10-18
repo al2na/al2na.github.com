@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning &amp; Stats | Altuna Akalin</title>
+    <link>/tags/machine-learning-stats/</link>
+      <atom:link href="/tags/machine-learning-stats/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning &amp; Stats</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Machine Learning &amp; Stats</title>
+      <link>/tags/machine-learning-stats/</link>
+    </image>
+    
+    <item>
+      <title>maui</title>
+      <link>/project/maui/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/maui/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniele F Colombo | Altuna Akalin</title>
+    <link>/authors/daniele-f-colombo/</link>
+      <atom:link href="/authors/daniele-f-colombo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniele F Colombo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Daniele F Colombo</title>
+      <link>/authors/daniele-f-colombo/</link>
+    </image>
+    
+    <item>
+      <title>Genomic profiling of DNA methyltransferases reveals a role for DNMT3B in genic methylation</title>
+      <link>/publication/baubec-2015-genomic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/baubec-2015-genomic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

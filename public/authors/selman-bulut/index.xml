@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selman Bulut | Altuna Akalin</title>
+    <link>/authors/selman-bulut/</link>
+      <atom:link href="/authors/selman-bulut/index.xml" rel="self" type="application/rss+xml" />
+    <description>Selman Bulut</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Selman Bulut</title>
+      <link>/authors/selman-bulut/</link>
+    </image>
+    
+    <item>
+      <title>HOT or not: examining the basis of high-occupancy target regions</title>
+      <link>/publication/wreczycka-2019-hot/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wreczycka-2019-hot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The conserved histone chaperone LIN-53 is required for normal lifespan and maintenance of muscle integrity in Caenorhabditis elegans</title>
+      <link>/publication/muthel-2019-conserved/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/muthel-2019-conserved/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

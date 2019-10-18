@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kim-Anh Le Cao | Altuna Akalin</title>
+    <link>/authors/kim-anh-le-cao/</link>
+      <atom:link href="/authors/kim-anh-le-cao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kim-Anh Le Cao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Kim-Anh Le Cao</title>
+      <link>/authors/kim-anh-le-cao/</link>
+    </image>
+    
+    <item>
+      <title>Conservation and divergence in Toll-like receptor 4-regulated gene expression in primary human versus mouse macrophages</title>
+      <link>/publication/schroder-2012-conservation/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/schroder-2012-conservation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

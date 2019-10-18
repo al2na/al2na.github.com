@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erik McShane | Altuna Akalin</title>
+    <link>/authors/erik-mcshane/</link>
+      <atom:link href="/authors/erik-mcshane/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erik McShane</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Erik McShane</title>
+      <link>/authors/erik-mcshane/</link>
+    </image>
+    
+    <item>
+      <title>Autocrine LTA signaling drives NF-$ąppa$B and JAK-STAT activity and myeloid gene expression in Hodgkin lymphoma</title>
+      <link>/publication/von-2019-autocrine/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/von-2019-autocrine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA localization is a key determinant of neurite-enriched proteome</title>
+      <link>/publication/zappulo-2017-rna/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zappulo-2017-rna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

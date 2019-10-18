@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tuncay Baubec | Altuna Akalin</title>
+    <link>/authors/tuncay-baubec/</link>
+      <atom:link href="/authors/tuncay-baubec/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tuncay Baubec</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tuncay Baubec</title>
+      <link>/authors/tuncay-baubec/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide analysis of DNA methylation patterns by high-throughput sequencing</title>
+      <link>/publication/baubec-2016-genome/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/baubec-2016-genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic profiling of DNA methyltransferases reveals a role for DNMT3B in genic methylation</title>
+      <link>/publication/baubec-2015-genomic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/baubec-2015-genomic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

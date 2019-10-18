@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles Plessy | Altuna Akalin</title>
+    <link>/authors/charles-plessy/</link>
+      <atom:link href="/authors/charles-plessy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles Plessy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Charles Plessy</title>
+      <link>/authors/charles-plessy/</link>
+    </image>
+    
+    <item>
+      <title>NanoCAGE analysis of the mouse olfactory epithelium identifies the expression of vomeronasal receptors and of proximal LINE elements</title>
+      <link>/publication/pascarella-2014-nanocage/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pascarella-2014-nanocage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two independent transcription initiation codes overlap on vertebrate core promoters</title>
+      <link>/publication/haberle-2014-two/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/haberle-2014-two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promoter architecture of mouse olfactory receptor genes</title>
+      <link>/publication/plessy-2012-promoter/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/plessy-2012-promoter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

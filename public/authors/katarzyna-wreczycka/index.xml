@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katarzyna Wreczycka | Altuna Akalin</title>
+    <link>/authors/katarzyna-wreczycka/</link>
+      <atom:link href="/authors/katarzyna-wreczycka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katarzyna Wreczycka</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Katarzyna Wreczycka</title>
+      <link>/authors/katarzyna-wreczycka/</link>
+    </image>
+    
+    <item>
+      <title>HOT or not: examining the basis of high-occupancy target regions</title>
+      <link>/publication/wreczycka-2019-hot/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wreczycka-2019-hot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PiGx: reproducible genomics analysis pipelines with GNU Guix</title>
+      <link>/publication/wurmus-2018-pigx/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wurmus-2018-pigx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategies for analyzing bisulfite sequencing data</title>
+      <link>/publication/wreczycka-2017-strategies/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wreczycka-2017-strategies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

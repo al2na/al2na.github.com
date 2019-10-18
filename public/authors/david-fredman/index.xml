@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Fredman | Altuna Akalin</title>
+    <link>/authors/david-fredman/</link>
+      <atom:link href="/authors/david-fredman/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Fredman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>David Fredman</title>
+      <link>/authors/david-fredman/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptional features of genomic regulatory blocks</title>
+      <link>/publication/akalin-2009-transcriptional/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/akalin-2009-transcriptional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic regulatory blocks encompass multiple neighboring genes and maintain conserved synteny in vertebrates</title>
+      <link>/publication/kikuta-2007-genomic/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/kikuta-2007-genomic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

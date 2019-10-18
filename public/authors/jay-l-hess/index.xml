@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jay L Hess | Altuna Akalin</title>
+    <link>/authors/jay-l-hess/</link>
+      <atom:link href="/authors/jay-l-hess/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jay L Hess</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jay L Hess</title>
+      <link>/authors/jay-l-hess/</link>
+    </image>
+    
+    <item>
+      <title>Base-pair resolution DNA methylation sequencing reveals profoundly divergent epigenetic landscapes in acute myeloid leukemia</title>
+      <link>/publication/akalin-2012-base/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/akalin-2012-base/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

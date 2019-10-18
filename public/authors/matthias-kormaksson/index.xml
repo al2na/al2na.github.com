@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthias Kormaksson | Altuna Akalin</title>
+    <link>/authors/matthias-kormaksson/</link>
+      <atom:link href="/authors/matthias-kormaksson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthias Kormaksson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Matthias Kormaksson</title>
+      <link>/authors/matthias-kormaksson/</link>
+    </image>
+    
+    <item>
+      <title>Base-pair resolution DNA methylation sequencing reveals profoundly divergent epigenetic landscapes in acute myeloid leukemia</title>
+      <link>/publication/akalin-2012-base/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/akalin-2012-base/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methylKit: a comprehensive R package for the analysis of genome-wide DNA methylation profiles</title>
+      <link>/publication/akalin-2012-methylkit/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/akalin-2012-methylkit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meng Li | Altuna Akalin</title>
+    <link>/authors/meng-li/</link>
+      <atom:link href="/authors/meng-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meng Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Meng Li</title>
+      <link>/authors/meng-li/</link>
+    </image>
+    
+    <item>
+      <title>RNA polymerase II primes Polycomb-repressed developmental genes throughout terminal neuronal differentiation</title>
+      <link>/publication/ferrai-2017-rna/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrai-2017-rna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

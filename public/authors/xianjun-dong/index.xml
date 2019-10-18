@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xianjun Dong | Altuna Akalin</title>
+    <link>/authors/xianjun-dong/</link>
+      <atom:link href="/authors/xianjun-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xianjun Dong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Xianjun Dong</title>
+      <link>/authors/xianjun-dong/</link>
+    </image>
+    
+    <item>
+      <title>Two independent transcription initiation codes overlap on vertebrate core promoters</title>
+      <link>/publication/haberle-2014-two/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/haberle-2014-two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translog, a web browser for studying the expression divergence of homologous genes</title>
+      <link>/publication/dong-2010-translog/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/dong-2010-translog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptional features of genomic regulatory blocks</title>
+      <link>/publication/akalin-2009-transcriptional/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/akalin-2009-transcriptional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential evolution of the 13 Atlantic salmon Hox clusters</title>
+      <link>/publication/mungpakdee-2008-differential/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/mungpakdee-2008-differential/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

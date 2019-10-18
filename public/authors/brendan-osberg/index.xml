@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brendan Osberg | Altuna Akalin</title>
+    <link>/authors/brendan-osberg/</link>
+      <atom:link href="/authors/brendan-osberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brendan Osberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Brendan Osberg</title>
+      <link>/authors/brendan-osberg/</link>
+    </image>
+    
+    <item>
+      <title>PiGx: reproducible genomics analysis pipelines with GNU Guix</title>
+      <link>/publication/wurmus-2018-pigx/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wurmus-2018-pigx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

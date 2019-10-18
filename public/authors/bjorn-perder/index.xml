@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Björn Perder | Altuna Akalin</title>
+    <link>/authors/bjorn-perder/</link>
+      <atom:link href="/authors/bjorn-perder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Björn Perder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Björn Perder</title>
+      <link>/authors/bjorn-perder/</link>
+    </image>
+    
+    <item>
+      <title>The I$ąppa$B kinase complex is a regulator of mRNA stability</title>
+      <link>/publication/mikuda-2018-ikappab/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mikuda-2018-ikappab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

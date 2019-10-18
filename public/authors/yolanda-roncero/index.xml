@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yolanda Roncero | Altuna Akalin</title>
+    <link>/authors/yolanda-roncero/</link>
+      <atom:link href="/authors/yolanda-roncero/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yolanda Roncero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yolanda Roncero</title>
+      <link>/authors/yolanda-roncero/</link>
+    </image>
+    
+    <item>
+      <title>Dissecting the transcriptional regulatory properties of human chromosome 16 highly conserved non-coding regions</title>
+      <link>/publication/royo-2011-dissecting/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/royo-2011-dissecting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Maria Suzuki | Altuna Akalin</title>
+    <link>/authors/ana-maria-suzuki/</link>
+      <atom:link href="/authors/ana-maria-suzuki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ana Maria Suzuki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ana Maria Suzuki</title>
+      <link>/authors/ana-maria-suzuki/</link>
+    </image>
+    
+    <item>
+      <title>Two independent transcription initiation codes overlap on vertebrate core promoters</title>
+      <link>/publication/haberle-2014-two/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/haberle-2014-two/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

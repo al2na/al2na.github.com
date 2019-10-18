@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christel EM Kockx | Altuna Akalin</title>
+    <link>/authors/christel-em-kockx/</link>
+      <atom:link href="/authors/christel-em-kockx/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christel EM Kockx</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Christel EM Kockx</title>
+      <link>/authors/christel-em-kockx/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic regulation of the transcription initiation landscape at single nucleotide resolution during vertebrate embryogenesis</title>
+      <link>/publication/li-2013-dynamic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2013-dynamic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

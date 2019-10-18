@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pubs | Altuna Akalin</title>
+    <link>/tags/pubs/</link>
+      <atom:link href="/tags/pubs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pubs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Pubs</title>
+      <link>/tags/pubs/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/project/biorxiv/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/gscholar/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/gscholar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/pubmed/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/pubmed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

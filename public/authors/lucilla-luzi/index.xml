@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucilla Luzi | Altuna Akalin</title>
+    <link>/authors/lucilla-luzi/</link>
+      <atom:link href="/authors/lucilla-luzi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lucilla Luzi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Lucilla Luzi</title>
+      <link>/authors/lucilla-luzi/</link>
+    </image>
+    
+    <item>
+      <title>Complex loci in human and mouse genomes</title>
+      <link>/publication/engstrom-2006-complex/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/engstrom-2006-complex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

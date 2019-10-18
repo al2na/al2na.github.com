@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuki Hasegawa | Altuna Akalin</title>
+    <link>/authors/yuki-hasegawa/</link>
+      <atom:link href="/authors/yuki-hasegawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuki Hasegawa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yuki Hasegawa</title>
+      <link>/authors/yuki-hasegawa/</link>
+    </image>
+    
+    <item>
+      <title>The transcriptional network that controls growth arrest and differentiation in a human myeloid leukemia cell line</title>
+      <link>/publication/suzuki-2009-transcriptional/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/suzuki-2009-transcriptional/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

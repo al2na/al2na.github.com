@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antje Hirsekorn | Altuna Akalin</title>
+    <link>/authors/antje-hirsekorn/</link>
+      <atom:link href="/authors/antje-hirsekorn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antje Hirsekorn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Antje Hirsekorn</title>
+      <link>/authors/antje-hirsekorn/</link>
+    </image>
+    
+    <item>
+      <title>Global identification of functional microRNA-mRNA interactions in Drosophila</title>
+      <link>/publication/wessels-2019-global/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wessels-2019-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FACT sets a barrier for cell fate reprogramming in Caenorhabditis elegans and human cells</title>
+      <link>/publication/kolundzic-2018-fact/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kolundzic-2018-fact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

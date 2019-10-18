@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carsten O Daub | Altuna Akalin</title>
+    <link>/authors/carsten-o-daub/</link>
+      <atom:link href="/authors/carsten-o-daub/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carsten O Daub</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Carsten O Daub</title>
+      <link>/authors/carsten-o-daub/</link>
+    </image>
+    
+    <item>
+      <title>The transcriptional network that controls growth arrest and differentiation in a human myeloid leukemia cell line</title>
+      <link>/publication/suzuki-2009-transcriptional/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/suzuki-2009-transcriptional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptional features of genomic regulatory blocks</title>
+      <link>/publication/akalin-2009-transcriptional/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/akalin-2009-transcriptional/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

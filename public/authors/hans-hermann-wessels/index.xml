@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hans-Hermann Wessels | Altuna Akalin</title>
+    <link>/authors/hans-hermann-wessels/</link>
+      <atom:link href="/authors/hans-hermann-wessels/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hans-Hermann Wessels</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Hans-Hermann Wessels</title>
+      <link>/authors/hans-hermann-wessels/</link>
+    </image>
+    
+    <item>
+      <title>Global identification of functional microRNA-mRNA interactions in Drosophila</title>
+      <link>/publication/wessels-2019-global/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wessels-2019-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciphering human ribonucleoprotein regulatory networks</title>
+      <link>/publication/mukherjee-2018-deciphering/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mukherjee-2018-deciphering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

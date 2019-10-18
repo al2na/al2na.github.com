@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SIB Swiss Institute of Bioinformatics Members | Altuna Akalin</title>
+    <link>/authors/sib-swiss-institute-of-bioinformatics-members/</link>
+      <atom:link href="/authors/sib-swiss-institute-of-bioinformatics-members/index.xml" rel="self" type="application/rss+xml" />
+    <description>SIB Swiss Institute of Bioinformatics Members</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>SIB Swiss Institute of Bioinformatics Members</title>
+      <link>/authors/sib-swiss-institute-of-bioinformatics-members/</link>
+    </image>
+    
+    <item>
+      <title>The SIB Swiss Institute of Bioinformatics’ resources: focus on curated databases</title>
+      <link>/publication/sib-2015-sib/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sib-2015-sib/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

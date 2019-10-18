@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dirk Schübeler | Altuna Akalin</title>
+    <link>/authors/dirk-schubeler/</link>
+      <atom:link href="/authors/dirk-schubeler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dirk Schübeler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Dirk Schübeler</title>
+      <link>/authors/dirk-schubeler/</link>
+    </image>
+    
+    <item>
+      <title>Genomic profiling of DNA methyltransferases reveals a role for DNMT3B in genic methylation</title>
+      <link>/publication/baubec-2015-genomic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/baubec-2015-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomation: a toolkit to summarize, annotate and visualize genomic intervals</title>
+      <link>/publication/akalin-2014-genomation/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/akalin-2014-genomation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

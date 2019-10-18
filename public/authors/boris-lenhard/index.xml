@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boris Lenhard | Altuna Akalin</title>
+    <link>/authors/boris-lenhard/</link>
+      <atom:link href="/authors/boris-lenhard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Boris Lenhard</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Boris Lenhard</title>
+      <link>/authors/boris-lenhard/</link>
+    </image>
+    
+    <item>
+      <title>Dissecting the transcriptional regulatory properties of human chromosome 16 highly conserved non-coding regions</title>
+      <link>/publication/royo-2011-dissecting/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/royo-2011-dissecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translog, a web browser for studying the expression divergence of homologous genes</title>
+      <link>/publication/dong-2010-translog/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/dong-2010-translog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptional features of genomic regulatory blocks</title>
+      <link>/publication/akalin-2009-transcriptional/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/akalin-2009-transcriptional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zebrafish enhancer detection (ZED) vector: a new tool to facilitate transgenesis and the functional analysis of cis-regulatory regions in zebrafish</title>
+      <link>/publication/bessa-2009-zebrafish/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/bessa-2009-zebrafish/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

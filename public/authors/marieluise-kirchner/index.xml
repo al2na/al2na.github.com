@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marieluise Kirchner | Altuna Akalin</title>
+    <link>/authors/marieluise-kirchner/</link>
+      <atom:link href="/authors/marieluise-kirchner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marieluise Kirchner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Marieluise Kirchner</title>
+      <link>/authors/marieluise-kirchner/</link>
+    </image>
+    
+    <item>
+      <title>Mutations in disordered regions can cause disease by creating dileucine motifs</title>
+      <link>/publication/meyer-2018-mutations/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/meyer-2018-mutations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutations in disordered regions cause disease by creating endocytosis motifs</title>
+      <link>/publication/meyer-2017-mutations/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/meyer-2017-mutations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
