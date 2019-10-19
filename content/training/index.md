@@ -6,17 +6,27 @@ reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
-
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/AltunaAkalin
+- icon: linkedin
+  icon_pack: fab
+  name: Follow
+  url: https://www.linkedin.com/in/altunaakalin/
+image:
+  caption: compgen courses
+  placement: 2
 ---
 
-I have been organizing and teaching hands-on courses on data analysis for genomics since 2014.
+I have been organizing and teaching hands-on courses on data analysis for genomics since 2014. The flagship course I organize and usually teach at, "computational genomics summer school", is announced via the [dedicated course website](http//compgen.mdc-berlin.de). We also announce it in various social media platforms. I'm also working on a [book draft](http://compgenomr.github.io/book) covering various topics related to computational genomics such as domain-specific data analysis and general statistics and machine learning.
 
 
-In addition, I and my team offer consultation on data analysis related issues to MDC scientists. We have done hundreds of hours consultations and helped researchers with various data analysis related issues. 
+In addition to the training efforts, I and my team offer consultation on data analysis related issues to MDC scientists. We have done hundreds of hours consultations and helped researchers with various data analysis related issues. 
 
 ## Custom Training & consulting
-I offer custom computational genomics training and consultations directed towards industry or other clients via [rolv.io](http://rolv.io). [rolv.io](http://rolv.io) offers custom training at your location, in-person workshops offer an intense experience to get you up and running with the techniques related to computational genomics and data science. If you have a specific need in mind, get in touch with rolv via [info@rolv.io] and they can work out a curriculum. You can see currently offered courses via [https://www.rolv.io/training](https://www.rolv.io/training)
+I offer custom computational genomics & data science training and consultations directed towards industry or other clients via [rolv.io](http://rolv.io). [They](http://rolv.io) offer custom training at your location. These workshops offer an intense experience to get you up and running with the techniques related to computational genomics and data science. If you have a specific need in mind, get in touch with [rolv](mailto:info@rolv.io) or you can see the currently offered public courses via [https://www.rolv.io/training](https://www.rolv.io/training)
 
-## Consulting 
-I offer project based consultation again via [rolv.io](http://rolv.io) on genomics or data science related projects. [rolv.io](http://rolv.io) offers consultation on **Scientific/technical feasibility** and **Data analysis strategies**. Please check [rolv.io](http://rolv.io) for further info.
+[rolv.io](http://rolv.io) also offers consultation on **scientific/technical feasibility** and **data analysis strategies**. If interested, check [rolv.io](http://rolv.io) for further info on their solutions.
 
