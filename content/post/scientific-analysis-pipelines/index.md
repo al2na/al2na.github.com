@@ -33,6 +33,7 @@ If you can install the same exact software, built the same way with exactly the 
 
 Essential ingredients of data analysis reproducibility. Reproducibility requires availability of data and being able to use the same exact software.
 
-
+...
+See the [original post at medium.com](https://towardsdatascience.com/scientific-data-analysis-pipelines-and-reproducibility-75ff9df5b4c5)* for the rest. 
 
 
