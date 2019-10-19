@@ -45,7 +45,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a group leader and the head of [Bioinformatics and Omics Data Science Platform](http://bioinformatics.mdc-berlin.de) at [the Berlin Institute of Medical Systems Biology](https://www.mdc-berlin.de/bimsb), [Max Delbrück Center in Berlin](http://www.mdc-berlin.de). I have been developing computational methods for analyzing and integrating large-scale genomics data sets since 2005. I mainly use machine learning and statistics to uncover patterns related to important biological variables such as disease state and type. I spent some time in USA, Norway, Turkey, Japan, and Switzerland in order to pursue further self-development in genomics, bioinformatics and statistics.  
+I'm a bioinformatics scientist and the head of [Bioinformatics and Omics Data Science Platform](http://bioinformatics.mdc-berlin.de) at [the Berlin Institute of Medical Systems Biology](https://www.mdc-berlin.de/bimsb), [Max Delbrück Center in Berlin](http://www.mdc-berlin.de). I have been developing computational methods for analyzing and integrating large-scale genomics data sets since 2005. I mainly use machine learning and statistics to uncover patterns related to important biological variables such as disease state and type. I spent some time in the USA, Norway, Turkey, Japan, and Switzerland in order to pursue further self-development in genomics, bioinformatics and statistics.  
 
 The underlying aim of my current work is utilizing complex
 molecular signatures to provide decision support systems for disease diagnostics and biomarker discovery. In addition to research efforts, since 2015, I have been organizing and teaching at [computational genomics courses](http://compgen.mdc-berlin.de) in Berlin with participants from across the world.

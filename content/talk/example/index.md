@@ -28,7 +28,7 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: An example talk using Academic's Markdown slides feature.
+summary: Talk on data analysis paradigms and reproducibility in genomics
 tags: []
 title: Systems biology and medicine in the genomics era 
 url_code: ""
