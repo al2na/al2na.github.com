@@ -1,20 +1,18 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: High-throughput methods, particularly sequencing, changed the face of genome analysis. These advances in technology drove a shift of focus in molecular biology. The desire to understand single functional entities, such as single genes, is replaced by how all genes, gene products and other functional units in the genome work together to produce a phenotype. This new quest for understanding the processes in the cell as relationships and interplay between functional entities is an application of system biology in molecular and cell biology context. Our ambition is to be able to produce these biological insights for systems biology from raw data in a reproducible and scalable manner, regardless of the number of samples and the diversity of data types.
+
 address:
   city: Berlin
   country: Germany
-  postcode: "94305"
+  postcode: 10123
   region: Berlin
-  street: 450 Serra Mall
+  street: 
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2019-09-23T15:00:00Z"
+date_end: "2019-09-23T15:30:00Z"
 event: German Stem Cell Network Conference
-event_url: https://example.org
+event_url: https://gscn.org/Conferences/2019/Program.aspx
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -24,7 +22,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/AltunaAkalin
-location: Source Themes HQ
+location: Max Delbrück Center
 math: true
 projects:
 - internal-project
@@ -32,11 +30,12 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: An example talk using Academic's Markdown slides feature.
 tags: []
-title: Stem Cell Talk
+title: Systems biology and medicine in the genomics era 
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+
 
 

@@ -28,10 +28,11 @@
   
     
   
-  <meta name="description" content="What do pipelines do? Why do we need them? Pipelines are computational tools of convenience. Data analysis usually requires data acquisition, quality check, clean up, exploratory analysis and hypothesis driven analysis. Pipelines can automate these steps. They process raw data to a suitable format and analyze it with statistical tools or machine learning models in a streamlined way. In practical terms, a data analysis pipeline executes a chain of command-line tools and custom scripts.">
+  <meta name="description" content="originally posted at medium.com
+What do pipelines do? Why do we need them? Pipelines are computational tools of convenience. Data analysis usually requires data acquisition, quality check, clean up, exploratory analysis and hypothesis driven analysis. Pipelines can automate these steps. They process raw data to a suitable format and analyze it with statistical tools or machine learning models in a streamlined way. In practical terms, a data analysis pipeline executes a chain of command-line tools and custom scripts.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/post/writing-technical-content/">
+  <link rel="alternate" hreflang="en-us" href="/post/scientific-analysis-pipelines/">
 
   
 
@@ -101,7 +102,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/post/writing-technical-content/">
+  <link rel="canonical" href="/post/scientific-analysis-pipelines/">
 
   
   
@@ -116,10 +117,11 @@
   <meta property="twitter:creator" content="@AltunaAkalin">
   
   <meta property="og:site_name" content="Altuna Akalin">
-  <meta property="og:url" content="/post/writing-technical-content/">
+  <meta property="og:url" content="/post/scientific-analysis-pipelines/">
   <meta property="og:title" content="Scientific Data Analysis Pipelines and Reproducibility | Altuna Akalin">
-  <meta property="og:description" content="What do pipelines do? Why do we need them? Pipelines are computational tools of convenience. Data analysis usually requires data acquisition, quality check, clean up, exploratory analysis and hypothesis driven analysis. Pipelines can automate these steps. They process raw data to a suitable format and analyze it with statistical tools or machine learning models in a streamlined way. In practical terms, a data analysis pipeline executes a chain of command-line tools and custom scripts."><meta property="og:image" content="/post/writing-technical-content/featured.jpg">
-  <meta property="twitter:image" content="/post/writing-technical-content/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="originally posted at medium.com
+What do pipelines do? Why do we need them? Pipelines are computational tools of convenience. Data analysis usually requires data acquisition, quality check, clean up, exploratory analysis and hypothesis driven analysis. Pipelines can automate these steps. They process raw data to a suitable format and analyze it with statistical tools or machine learning models in a streamlined way. In practical terms, a data analysis pipeline executes a chain of command-line tools and custom scripts."><meta property="og:image" content="/post/scientific-analysis-pipelines/featured.jpg">
+  <meta property="twitter:image" content="/post/scientific-analysis-pipelines/featured.jpg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2019-07-12T00:00:00&#43;00:00">
@@ -150,12 +152,12 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/post/writing-technical-content/"
+    "@id": "/post/scientific-analysis-pipelines/"
   },
   "headline": "Scientific Data Analysis Pipelines and Reproducibility",
   
   "image": [
-    "/post/writing-technical-content/featured.jpg"
+    "/post/scientific-analysis-pipelines/featured.jpg"
   ],
   
   "datePublished": "2019-07-12T00:00:00Z",
@@ -174,7 +176,7 @@
       "url": "/img/icon-512.png"
     }
   },
-  "description": "What do pipelines do? Why do we need them? Pipelines are computational tools of convenience. Data analysis usually requires data acquisition, quality check, clean up, exploratory analysis and hypothesis driven analysis. Pipelines can automate these steps. They process raw data to a suitable format and analyze it with statistical tools or machine learning models in a streamlined way. In practical terms, a data analysis pipeline executes a chain of command-line tools and custom scripts."
+  "description": "originally posted at medium.com\nWhat do pipelines do? Why do we need them? Pipelines are computational tools of convenience. Data analysis usually requires data acquisition, quality check, clean up, exploratory analysis and hypothesis driven analysis. Pipelines can automate these steps. They process raw data to a suitable format and analyze it with statistical tools or machine learning models in a streamlined way. In practical terms, a data analysis pipeline executes a chain of command-line tools and custom scripts."
 }
 </script>
 
@@ -472,7 +474,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    8 min read
+    5 min read
   </span>
   
 
@@ -505,7 +507,7 @@
 
 <div class="article-header container-fluid featured-image-wrapper mt-4 mb-4" style="max-width: 2000px; max-height: 1333px;">
   <div style="position: relative">
-    <img src="/post/writing-technical-content/featured.jpg" alt="" class="featured-image">
+    <img src="/post/scientific-analysis-pipelines/featured.jpg" alt="" class="featured-image">
     <span class="article-header-caption">Image credit: <a href="https://miro.medium.com/max/3500/0*JM8DmN3dQTHvVJzg.png" target="_blank"><strong>John Moeses Bauan</strong></a></span>
   </div>
 </div>
@@ -515,7 +517,9 @@
   <div class="article-container">
 
     <div class="article-style">
-      <h2 id="what-do-pipelines-do-why-do-we-need-them">What do pipelines do? Why do we need them?</h2>
+      <p><em>originally posted at <a href="https://towardsdatascience.com/scientific-data-analysis-pipelines-and-reproducibility-75ff9df5b4c5">medium.com</a></em></p>
+
+<h2 id="what-do-pipelines-do-why-do-we-need-them">What do pipelines do? Why do we need them?</h2>
 
 <p>Pipelines are computational tools of convenience. Data analysis usually requires data acquisition, quality check, clean up, exploratory analysis and hypothesis driven analysis. Pipelines can automate these steps. They process raw data to a suitable format and analyze it with statistical tools or machine learning models in a streamlined way. In practical terms, a data analysis pipeline executes a chain of command-line tools and custom scripts. This usually provides processed data sets and a human readable report covering topics such as data quality, exploratory analysis etc.</p>
 
@@ -539,210 +543,6 @@
 
 <p>Essential ingredients of data analysis reproducibility. Reproducibility requires availability of data and being able to use the same exact software.</p>
 
-<p>Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.</p>
-
-<p><strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.</strong></p>
-
-<p>On this page, you'll find some examples of the types of technical content that can be rendered with Academic.</p>
-
-<h2 id="examples">Examples</h2>
-
-<h3 id="code">Code</h3>
-
-<p>Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the <code>highlight</code> option in your <code>config/_default/params.toml</code> file.</p>
-
-<pre><code>```python
-import pandas as pd
-data = pd.read_csv(&quot;data.csv&quot;)
-data.head()
-```
-</code></pre>
-
-<p>renders as</p>
-
-<pre><code class="language-python">import pandas as pd
-data = pd.read_csv(&quot;data.csv&quot;)
-data.head()
-</code></pre>
-
-<h3 id="math">Math</h3>
-
-<p>Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the <code>math</code> option in your <code>config/_default/params.toml</code> file and adding <code>markup: mmark</code> to your page front matter.</p>
-
-<p>To render <em>inline</em> or <em>block</em> math, wrap your LaTeX math with <code>$$...$$</code>.</p>
-
-<p>Example <strong>math block</strong>:</p>
-
-<pre><code class="language-tex">$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
-\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
-{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-</code></pre>
-
-<p>renders as</p>
-
-<p><span  class="math">\[\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}\]</span></p>
-
-<p>Example <strong>inline math</strong> <code>$$\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2$$</code> renders as <span  class="math">\(\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2\)</span> .</p>
-
-<p>Example <strong>multi-line math</strong> using the <code>\\</code> math linebreak:</p>
-
-<pre><code class="language-tex">$$f(k;p_0^*) = \begin{cases} p_0^* &amp; \text{if }k=1, \\
-1-p_0^* &amp; \text {if }k=0.\end{cases}$$
-</code></pre>
-
-<p>renders as</p>
-
-<p><span  class="math">\[f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\
-1-p_0^* & \text {if }k=0.\end{cases}\]</span></p>
-
-<h3 id="diagrams">Diagrams</h3>
-
-<p>Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the <code>diagram</code> option in your <code>config/_default/params.toml</code> file or by adding <code>diagram: true</code> to your page front matter.</p>
-
-<p>An example <strong>flowchart</strong>:</p>
-
-<pre><code>```mermaid
-graph TD;
-  A--&gt;B;
-  A--&gt;C;
-  B--&gt;D;
-  C--&gt;D;
-```
-</code></pre>
-
-<p>renders as</p>
-
-<pre><code class="language-mermaid">graph TD;
-  A--&gt;B;
-  A--&gt;C;
-  B--&gt;D;
-  C--&gt;D;
-</code></pre>
-
-<p>An example <strong>sequence diagram</strong>:</p>
-
-<pre><code>```mermaid
-sequenceDiagram
-  participant Alice
-  participant Bob
-  Alice-&gt;John: Hello John, how are you?
-  loop Healthcheck
-      John-&gt;John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts &lt;br/&gt;prevail...
-  John--&gt;Alice: Great!
-  John-&gt;Bob: How about you?
-  Bob--&gt;John: Jolly good!
-```
-</code></pre>
-
-<p>renders as</p>
-
-<pre><code class="language-mermaid">sequenceDiagram
-  participant Alice
-  participant Bob
-  Alice-&gt;John: Hello John, how are you?
-  loop Healthcheck
-      John-&gt;John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts &lt;br/&gt;prevail...
-  John--&gt;Alice: Great!
-  John-&gt;Bob: How about you?
-  Bob--&gt;John: Jolly good!
-</code></pre>
-
-<p>An example <strong>Gantt diagram</strong>:</p>
-
-<pre><code>```mermaid
-gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-```
-</code></pre>
-
-<p>renders as</p>
-
-<pre><code class="language-mermaid">gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-</code></pre>
-
-<h3 id="todo-lists">Todo lists</h3>
-
-<p>You can even write your todo lists in Academic too:</p>
-
-<pre><code class="language-markdown">- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
-</code></pre>
-
-<p>renders as</p>
-
-<ul>
-<li><input type="checkbox" checked="" disabled=""> Write math example</li>
-<li><input type="checkbox" checked="" disabled=""> Write diagram example</li>
-<li><input type="checkbox" disabled=""> Do something else</li>
-</ul>
-
-<h3 id="tables">Tables</h3>
-
-<p>Represent your data in tables:</p>
-
-<pre><code class="language-markdown">| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-</code></pre>
-
-<p>renders as</p>
-
-<table>
-<thead>
-<tr>
-<th>First Header</th>
-<th>Second Header</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-
-<tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-</tbody>
-</table>
-
-<h3 id="asides">Asides</h3>
-
-<p>Academic supports a Markdown extension for asides, also referred to as <em>notices</em> or <em>hints</em>. By prefixing a paragraph with <code>A&gt;</code>, it will render as an aside. You can enable this feature by adding <code>markup: mmark</code> to your page front matter, or alternatively using the <a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts"><em>Alert</em> shortcode</a>.</p>
-
-<pre><code class="language-markdown">A&gt; A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-</code></pre>
-
-<p>renders as</p>
-
-<aside>
-<p>A Markdown aside is useful for displaying notices, hints, or definitions to your readers.</p>
-</aside>
-
-<h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌</h3>
-
     </div>
 
     
@@ -764,7 +564,7 @@ gantt
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/post/writing-technical-content/&amp;text=Scientific%20Data%20Analysis%20Pipelines%20and%20Reproducibility" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/post/scientific-analysis-pipelines/&amp;text=Scientific%20Data%20Analysis%20Pipelines%20and%20Reproducibility" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -777,7 +577,7 @@ gantt
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/post/writing-technical-content/&amp;t=Scientific%20Data%20Analysis%20Pipelines%20and%20Reproducibility" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/post/scientific-analysis-pipelines/&amp;t=Scientific%20Data%20Analysis%20Pipelines%20and%20Reproducibility" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -790,7 +590,7 @@ gantt
       
       
       <li>
-        <a href="mailto:?subject=Scientific%20Data%20Analysis%20Pipelines%20and%20Reproducibility&amp;body=/post/writing-technical-content/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Scientific%20Data%20Analysis%20Pipelines%20and%20Reproducibility&amp;body=/post/scientific-analysis-pipelines/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -803,7 +603,7 @@ gantt
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/post/writing-technical-content/&amp;title=Scientific%20Data%20Analysis%20Pipelines%20and%20Reproducibility" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/post/scientific-analysis-pipelines/&amp;title=Scientific%20Data%20Analysis%20Pipelines%20and%20Reproducibility" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -816,7 +616,7 @@ gantt
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Scientific%20Data%20Analysis%20Pipelines%20and%20Reproducibility%20/post/writing-technical-content/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Scientific%20Data%20Analysis%20Pipelines%20and%20Reproducibility%20/post/scientific-analysis-pipelines/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -829,7 +629,7 @@ gantt
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/post/writing-technical-content/&amp;title=Scientific%20Data%20Analysis%20Pipelines%20and%20Reproducibility" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/post/scientific-analysis-pipelines/&amp;title=Scientific%20Data%20Analysis%20Pipelines%20and%20Reproducibility" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

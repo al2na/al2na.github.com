@@ -52,6 +52,6 @@ molecular signatures to provide decision support systems for disease diagnostics
 
 to do:
 - add recent talks, GSCN, Summer Meeting, MPG
-- add courses
+- add courses ad
 - add book to featured projects
 - add medium blog posts
