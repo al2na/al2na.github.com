@@ -26,7 +26,7 @@ I have been organizing and teaching hands-on courses on data analysis for genomi
 In addition to the training efforts, I and my team offer consultation on data analysis related issues to MDC scientists. We have done hundreds of hours consultations and helped researchers with various data analysis related issues. 
 
 ## Custom Training & consulting
-I offer custom computational genomics & data science training and consultations directed towards industry or other clients via [rolv.io](http://rolv.io). [They](http://rolv.io) offer custom training at your location. These workshops offer an intense experience to get you up and running with the techniques related to computational genomics and data science. If you have a specific need in mind, get in touch with [rolv](mailto:info@rolv.io) or you can see the currently offered public courses via [https://www.rolv.io/training](https://www.rolv.io/training)
+I offer custom computational genomics & data science training and consultations directed towards industry or other clients via [rolv.io](http://rolv.io). They offer custom training at your location on computational genomics and data science. If you have a specific need in mind, get in touch with [rolv](mailto:info@rolv.io) or you can see the currently offered public courses via [https://www.rolv.io/training](https://www.rolv.io/training)
 
 [rolv.io](http://rolv.io) also offers consultation on **scientific/technical feasibility** and **data analysis strategies**. If interested, check [rolv.io](http://rolv.io) for further info on their solutions.
 
