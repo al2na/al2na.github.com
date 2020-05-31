@@ -12,53 +12,5 @@
       <link>/tags/</link>
     </image>
     
-    <item>
-      <title>Cancer Genomics</title>
-      <link>/tags/cancer-genomics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/cancer-genomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Featured</title>
-      <link>/tags/featured/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/featured/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gene Regulation</title>
-      <link>/tags/gene-regulation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/gene-regulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MLstats</title>
-      <link>/tags/mlstats/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/mlstats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pubs</title>
-      <link>/tags/pubs/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/pubs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>/tags/software/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/software/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

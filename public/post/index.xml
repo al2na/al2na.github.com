@@ -42,6 +42,9 @@
 &lt;p&gt;If you can install the same exact software, built the same way with exactly the same dependencies down to the compiler, you have good chances at reproducing the runtime environment across different machines and therefore the analysis with the same input data. Only exception here is that if the software has some stochastic component that you can not control then it will not be possible to reproduce the analysis. For example, k-means clustering algorithm might produce different clustering results every time depending a random initialization procedure. If we are not able to control that behavior by setting random seed we won’t be able to reproduce the results.&lt;/p&gt;
 
 &lt;p&gt;Essential ingredients of data analysis reproducibility. Reproducibility requires availability of data and being able to use the same exact software.&lt;/p&gt;
+
+&lt;p&gt;...
+See the &lt;a href=&#34;https://towardsdatascience.com/scientific-data-analysis-pipelines-and-reproducibility-75ff9df5b4c5&#34;&gt;original post at medium.com&lt;/a&gt;* for the rest.&lt;/p&gt;
 </description>
     </item>
     
