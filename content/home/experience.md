@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2014-04-01"
   date_end = ""
   description = """
-Leading a team of scientist, software engineers and sys. admins to working on computational genomics. We build software to analyze large-scale datasets in genomics. In addition, we do trainings and consultation for MDC scientists.
+Leading a team of scientist, software engineers and sys. admins working on computational genomics. We build software to analyze large-scale datasets in genomics. In addition, we do trainings and consultation for MDC scientists.
   """
 
 [[experience]]
