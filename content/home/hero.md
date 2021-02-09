@@ -43,9 +43,6 @@ hero_media = "compGenR.jpeg"
   url = "https://www.amazon.com/Computational-Genomics-R-Altuna-Akalin/dp/1498781853/ref=sr_1_1?dchild=1&keywords=altuna+akalin&qid=1612881849&sr=8-1"
   label = "Get via amazon"
 
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
 **Check out our new book on Computational Genomics and learn how to analyze your data with R**
