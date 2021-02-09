@@ -37,7 +37,7 @@ hero_media = "compGenR.jpeg"
   url = "https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855"
   label = "Get the book"
   icon_pack = "fas"
-  icon = "readme"
+  icon = "fa-book"
   
 [cta_alt]
   url = "https://www.amazon.com/Computational-Genomics-R-Altuna-Akalin/dp/1498781853/ref=sr_1_1?dchild=1&keywords=altuna+akalin&qid=1612881849&sr=8-1"
