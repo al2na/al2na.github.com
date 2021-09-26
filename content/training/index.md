@@ -20,8 +20,8 @@ image:
   placement: 2
 ---
 
-I have been organizing and teaching hands-on courses on data analysis for genomics since 2014. The flagship course I organize and usually teach at, "computational genomics summer school", is announced via the [dedicated course website](http://compgen.mdc-berlin.de). We also announce it in various social media platforms. I'm also working on a [book draft](http://compgenomr.github.io/book) covering various topics related to computational genomics such as domain-specific data analysis and general statistics and machine learning.
-
+I have been organizing and teaching hands-on courses on data analysis for genomics since 2014. The flagship course I organize and usually teach at, "computational genomics summer school", is announced via the [dedicated course website](http://compgen.mdc-berlin.de). We announce this course also in various social media platforms. In addition, I have published a [book](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855) covering various topics related to computational genomics such as domain-specific data analysis and general statistics and machine learning applications. The [book draft](http://compgenomr.github.io/book) is also
+available online.
 
 In addition to the training efforts, I and my team offer consultation on data analysis related issues to MDC scientists. We have done hundreds of hours consultations and helped researchers with various data analysis related issues. 
 
